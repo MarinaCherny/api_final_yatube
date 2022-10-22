@@ -27,7 +27,7 @@
 
 Создать и активировать виртуальное окружение:
 
-+ `python3 -m venv venv`
++ `python -m venv venv`
 + `source env/bin/activate`
 + `python -m pip install --upgrade pip`
 
