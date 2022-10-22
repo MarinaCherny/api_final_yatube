@@ -1,5 +1,3 @@
-# from email.policy import default
-# from urllib import request
 from django.contrib.auth import get_user_model
 from posts.models import Comment, Follow, Group, Post
 from rest_framework import serializers
